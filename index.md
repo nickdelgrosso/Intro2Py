@@ -21,7 +21,7 @@ In this hands-on workshop, we cover the basics of the Python programming languag
     - **Data**: https://github.com/nickdelgrosso/Intro2Py/blob/master/data/MentalRotation.csv 
       - [Download Link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Py/blob/master/data/MentalRotation.csv)
       
-  - *16:00 - 18:00*: Using Seaborn for Vizualization-Focused Exploratory Data Analysis
+  - *16:00 - 18:00*: **Using Seaborn for Vizualization-Focused Exploratory Data Analysis** (no link, will make notebook from scratch)
   
   
   
