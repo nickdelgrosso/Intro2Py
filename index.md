@@ -15,4 +15,5 @@ In this hands-on workshop, we cover the basics of the Python programming languag
   
 https://mybinder.org/v2/gh/RadoslawB/learning-machine-learning/master?filepath=notebooks%2Fpython-api%2Fcontext-manager-examples.ipynb
   
-  (https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro-to-Python-Course/blob/master/Day0_Python_Syntax/Python%20Syntax1.ipynb)
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Py/blob/master/1%20IntroExercises.ipynb)
+  
