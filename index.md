@@ -23,5 +23,13 @@ In this hands-on workshop, we cover the basics of the Python programming languag
       
   - *16:00 - 18:00*: **Using Seaborn for Vizualization-Focused Exploratory Data Analysis** (no link, will make notebook from scratch)
   
+    - **Data Option A: Titanic**: [https://raw.githubusercontent.com/mwaskom/seaborn-data/master/titanic.csv](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/titanic.csv)
+      - [Download Link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/mwaskom/seaborn-data/blob/master/titanic.csv)
+    
+    - **Data Option B: Class-Generated Psychometric Data** (Link Provided in class)
+    
+    - **Data Option C: Mental Rotation Data**: [https://raw.githubusercontent.com/nickdelgrosso/Intro2Py/master/data/MentalRotation.csv](https://raw.githubusercontent.com/nickdelgrosso/Intro2Py/master/data/MentalRotation.csv)
+      - [Download Link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Py/blob/master/data/MentalRotation.csv)
+  
   
   
