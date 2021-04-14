@@ -18,3 +18,5 @@ In this hands-on workshop, we cover the basics of the Python programming languag
   
   - *14:00 - 16:00*: [**Tabular Data, Pandas, and Holoviews**](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Py/blob/master/3%20DataFrames.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Py/blob/master/3%20DataFrames.ipynb)
   
+    - Data: https://github.com/nickdelgrosso/Intro2Py/blob/master/data/MentalRotation.csv [Download Link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Py/blob/master/data/MentalRotation.csv)
+  
