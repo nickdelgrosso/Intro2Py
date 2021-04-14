@@ -11,7 +11,10 @@ In this hands-on workshop, we cover the basics of the Python programming languag
 ## Exercise Materials
 
 ### Day 0: Introduction to the Python Language
-  - [**First Practice with Python**]( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Py/blob/master/1%20IntroExercises.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Py/blob/master/1%20IntroExercises.ipynb)
-    
-  - [**Organizing Hierarchical Data with Dicts and Lists, Computing Descriptive Statistics with Numpy**](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Py/blob/master/2%20Dicts%20and%20Numpy.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Py/blob/master/2%20Dicts%20and%20Numpy.ipynb)
+
+  - *9:30 - 11:00*: [**First Practice with Python**]( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Py/blob/master/1%20IntroExercises.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Py/blob/master/1%20IntroExercises.ipynb)    
+  
+  - *11:00 - 12:30*: [**Organizing Hierarchical Data with Dicts and Lists, Computing Descriptive Statistics with Numpy**](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Py/blob/master/2%20Dicts%20and%20Numpy.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Py/blob/master/2%20Dicts%20and%20Numpy.ipynb)
+  
+  - *14:00 - 16:00*: [**Tabular Data, Pandas, and Holoviews**](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Py/blob/master/3%20DataFrames.ipynb)[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Py/blob/master/3%20DataFrames.ipynb)
   
