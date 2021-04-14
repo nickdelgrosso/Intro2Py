@@ -11,7 +11,10 @@ In this hands-on workshop, we cover the basics of the Python programming languag
 ## Exercise Materials
 
 ### Day 0: Introduction to the Python Language
-  - **Notebook Environments and Python Operators**:
+  - **First Practice with Python**:
     - [Download File]( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Py/blob/master/1%20IntroExercises.ipynb)
     - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Py/blob/master/1%20IntroExercises.ipynb)
+    
+  - **Organizing Hierarchical Data with Dicts and Lists, Computing Descriptive Statistics with Numpy**
+    - 
   
