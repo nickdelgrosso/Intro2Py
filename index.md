@@ -32,13 +32,13 @@ In this hands-on workshop, we cover the basics of the Python programming languag
       - [Download Link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Py/blob/master/data/MentalRotation.csv)
   
   
-### Day 2: 
+### Day 2: Numerical and Statistical Simulation and Visualization with Numpy, Matplotlib, and Scipy-Stats
   
-  - *9:30 - 11:00*: [**Type Methods**]( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Py/blob/master/4%20%Methods%20Syntax.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Py/blob/master/4%20%Methods%20Syntax.ipynb)  
+  - *9:30 - 11:00*: [**Type Methods**](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Py/blob/master/4%20Methods%20Syntax.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Py/blob/master/4%20Methods%20Syntax.ipynb)  
   
   - *11:00 - 12:30*: [**Indexing And Numpy Arrays**]( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Py/blob/master/5%20Indexing%20and%20Arrays.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Py/blob/master/5%20Indexing%20and%20Arrays.ipynb)   
     
-  - *14:00 - 15:30*: [**Workig with Multidimensional Arrays**]( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Py/blob/master/6%20Matrices.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Py/blob/master/6%20Matrices.ipynb)   
+  - *14:00 - 15:30*: [**Working with Multidimensional Arrays**]( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Py/blob/master/6%20Matrices.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Py/blob/master/6%20Matrices.ipynb)   
      
     - **Data**: [https://raw.githubusercontent.com/nickdelgrosso/Intro2Py/master/data/MentalRotation.csv](https://raw.githubusercontent.com/nickdelgrosso/Intro2Py/master/data/cells.jpg)
     
