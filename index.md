@@ -44,7 +44,47 @@ In this hands-on workshop, we cover the basics of the Python programming languag
     
       - [Download Link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Py/blob/master/cells.jpg)
 
+  - *9:30 - 11:00*: [**Plotting with Matplotlib**]( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Py/blob/master/7%20Plotting%20with%20Matplotlib.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Py/blob/master/7%20Plotting%20with%20Matplotlib.ipynb)   
+
+### Day 3: Data Analysis 2: Numpy and Pandas Return
+
+  - *9:30 - 11:00*: [**Filtering Data with Logical Indexing**]( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Py/blob/master/8%20Filtering%20Data.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Py/blob/master/8%20Filtering%20Data.ipynb)   
+     
+  - *11:00 - 16:00*: [**Data Analysis with Pandas DataFrames**]( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Py/blob/master/9%20DataFrames2.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Py/blob/master/9%20DataFrames2.ipynb) 
+  
+  - *16:00 - 18:00*: [**Revenge of the Mental Rotation Dataset**](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Py/blob/master/3%20DataFrames.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Py/blob/master/3%20DataFrames.ipynb)
+  
+    - **Data**: [https://raw.githubusercontent.com/nickdelgrosso/Intro2Py/master/data/MentalRotation.csv](https://raw.githubusercontent.com/nickdelgrosso/Intro2Py/master/data/MentalRotation.csv)
+      - [Download Link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Py/blob/master/data/MentalRotation.csv)
 
 ## References
 
-  - [The Visual Guide to NumPy](https://betterprogramming.pub/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)
+
+### Web Sites
+
+  - [PEP8.org](https://pep8.org/): A reference for Python's style guide.
+
+  - [The Visual Guide to NumPy](https://betterprogramming.pub/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d): A Great article explaining the Numpy library and how arrays work.
+  
+  - [PyFormat.info](https://pyformat.info/): A reference for using the str.format() method.
+  
+  
+### Online Tools 
+
+  - [PyRegEx](http://www.pyregex.com/): An online tool for working out regular expressions (pattern-matching strings) for Python.  Has a handy cheat sheet built-in.
+  
+
+### Cheat Sheets
+
+  - [Python Syntax](https://www.dropbox.com/s/t88cxclq7ylewdl/2_Python_for_Data_Science_Basic.pdf?dl=0)
+  
+  - [Numpy](https://www.dropbox.com/s/ywyzqmlmdto7c5v/3_Tutorial_Numpy_Python.pdf?dl=0)
+  
+  - [Pandas](https://www.dropbox.com/s/fq3gwvl820jj1bi/4_Tutorial_Pandas_basics_Python.pdf?dl=0)
+  
+  - [Pandas 2](https://www.dropbox.com/s/hmme0dfox13lgxm/5_Data_Manipulation_Pandas_Python.pdf?dl=0)
+  
+  
+### Tutorials
+
+  - [Python Data Science Handbook Notebooks](https://github.com/jakevdp/PythonDataScienceHandbook)
