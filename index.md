@@ -40,7 +40,7 @@ In this hands-on workshop, we cover the basics of the Python programming languag
     
   - *14:00 - 15:30*: [**Working with Multidimensional Arrays**]( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Py/blob/master/6%20Matrices.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Py/blob/master/6%20Matrices.ipynb)   
      
-    - **Data**: [https://raw.githubusercontent.com/nickdelgrosso/Intro2Py/master/cells.jpg](https://raw.githubusercontent.com/nickdelgrosso/Intro2Py/master/data/cells.jpg)
+    - **Data**: [https://raw.githubusercontent.com/nickdelgrosso/Intro2Py/master/cells.jpg](https://raw.githubusercontent.com/nickdelgrosso/Intro2Py/master/cells.jpg)
     
       - [Download Link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Py/blob/master/cells.jpg)
     
