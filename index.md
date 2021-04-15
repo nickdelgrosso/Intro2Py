@@ -43,5 +43,8 @@ In this hands-on workshop, we cover the basics of the Python programming languag
     - **Data**: [https://raw.githubusercontent.com/nickdelgrosso/Intro2Py/master/cells.jpg](https://raw.githubusercontent.com/nickdelgrosso/Intro2Py/master/cells.jpg)
     
       - [Download Link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Py/blob/master/cells.jpg)
-    
-    
+
+
+## References
+
+  - [The Visual Guide to NumPy](https://betterprogramming.pub/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)
